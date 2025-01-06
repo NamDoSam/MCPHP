@@ -1,0 +1,130 @@
+/* CSS Document */
+@import 'https://fonts.googleapis.com/css?family=Raleway:300,400';
+
+
+body {
+    font-family: 'Raleway:300', sans-serif
+}
+    
+.admin-sidenav {
+    width: auto;
+	height: auto;
+	margin-left: 0px; 
+}
+.admin-sidenav a {
+	text-decoration: none; 
+}
+.admin-sidenav li {
+	text-align: justify;
+	padding: .5rem;
+	padding-left: 1rem;
+	-webkit-transition: all .2s linear;
+	transition: all .2s linear;
+	background-color: #374654;
+	border: 1px solid #425a70; 
+}
+.admin-sidenav li a {
+	color: #fff; 
+}
+
+.admin-sidenav li a:active {
+	border-color: #02d3f5; 
+}
+
+.admin-sidenav li:hover {
+	border-radius: 0 .5rem .5rem 0;
+	border-color: #02d3f5;
+	-webkit-transform: translate(30px, 0px);
+	transform: translate(30px, 0px);
+	background: -webkit-linear-gradient(left, #006a7b, #002340);
+	background: linear-gradient(to right, #006a7b, #002340); 
+}
+
+.admin-sidenav li:active {
+	border-color: #02d3f5; 
+}
+
+.rectangulo{
+	background-color: #fff;
+	border: 1px #CCCCCC solid;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+input[type=checkbox]{
+	width:20px;height:20px; 
+	margin-top:4px
+}
+.video{
+	padding:5px;
+	background-color: #f4f6f9;
+	text-align: right;
+	margin-bottom:10px;
+}
+
+.panel {
+	margin-bottom: 0px;
+	background-color: #fff;
+	padding:10px;
+	border: 1px solid #CCC;
+	border-radius: 8px;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+.btn.active span.nonCheckBoxAllow {
+	display: none;
+}
+.btn.active span.checkBoxAllow {
+	display: inline;
+}
+.btn span.nonCheckBoxAllow {
+	display: inline;
+}
+.btn span.checkBoxAllow {
+	display: none;
+}
+.accordion {
+	background-color: #f4f6f9;
+	color: #444;
+	cursor: pointer;
+	padding: 18px;
+	width: 100%;
+	border: none;
+	text-align: left;
+	outline: none;
+	font-size: 15px;
+	transition: 0.4s;
+}
+.active, .accordion:hover {
+	background-color: #d3da9b;
+}
+.accordion:after {
+	content: '\002B';
+	color: #777;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
+}
+.active:after {
+/*content: "\2212";*/
+}
+.panelAcordeon {
+	padding: 0 18px;
+	background-color: white;
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 0.2s ease-out;
+}
+input[type=checkbox] {
+	transform: scale(1.5);
+	cursor:pointer;
+}
+.table {
+       border-bottom:0px !important;
+}
+.table th, .table td {
+       border: 1px !important;
+}
+.fixed-table-container {
+       border:0px !important;
+}

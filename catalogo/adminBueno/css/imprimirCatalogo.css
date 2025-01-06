@@ -1,0 +1,21 @@
+.caja{
+	width: 80%;
+    padding: 0px 10%;
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+    vertical-align: top;
+    /*background-image: url(https://www.viamimenu.com/imagenes/17/fondoBrader.jpg) !important;
+    background-size: 100% 100% !important;*/
+}
+.titulo{
+	font-size: 2em;
+    margin-bottom: 0px;
+    display: inline-block;
+    width: 78%;
+    margin-left: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+    margin: 0px;
+    border-bottom: solid 1px #e42d2c;
+}

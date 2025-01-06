@@ -1,0 +1,84 @@
+////////////MENU//////////////
+	const INICIO			=	"INICIO";
+	const CERRAR_SESION		=	"CERRAR SESION";
+	const INICIAR_SESION		=	"INICIAR SESION";
+	const CONTACTO			=	"CONTACTO";
+	const COMPARTIR			=	"COMPARTIR";
+	const ADMIN				=	"ADMIN";
+	const MIS_PEDIDOS		=	"MIS PEDIDOS";
+	
+////////////INICIO//////////////
+	const OPCIONES			=	"OPCIONES";
+	const SELECCIONA		=	"SELECCIONA";
+	const PROMOCIONES		=	"PROMOCIONES";
+	const PROMOCION			=	"PROMOCION";
+	const HORARIOS			=	"Horarios";
+	const TELEFONO			=	"Teléfono";
+	const DIRECCION			=	"Dirección";
+
+////////////PROMOCIONES//////////////
+	const DETALLE			=	"Ver";
+	const AGOTADO			=	"Agotado";
+	const NOTA_PRODUCTO		=	"Nota al Producto";
+	const CERRAR			=	"Cerrar";
+	const PEDIDO			=	"PEDIDO";
+	const CARGAR_PEDIDO		=	"CARGAR PEDIDO";
+	const CERRAR			=	"CERRAR";
+	const VER_PEDIDO		=	"VER PEDIDO";
+	const TEXTO_1			=	"Quieres aclacar algo?";
+	
+////////////LISTA DE PEDIDOS//////////////
+	const CANT				=	"Cant.";
+	const IMAGEN			=	"Imagen";
+	const PRODUCTO			=	"Producto";
+	const PRECIO			=	"Precio";
+	const BORRAR			=	"Borrar";
+	const SIN_MINIMO		=	"Sin Mínimo";
+
+////////////LOGIN//////////////	
+	const REALIZAR_PEDIDO		=	"Realizar Pedido";
+	const TEXTO_2			=	"PARA DELIVERY EL MONTO MINIMO DE COMPRA";
+	const TEXTO_3			=	"Con el código de área y sin el 15";
+	const CARGAR			=	"Cargar";
+	const CELULAR			=	"Celular N°";
+	const NOMBRE			=	"Nombre";
+	const VOLVER			=	"Volver";
+	const NUEVO_USUARIO		=	"Nuevo Usuario";
+	
+////////////FINALIZAR PEDIDO//////////////	
+	const FINALIZAR_PEDIDO		=	"Finalizar Pedido";
+	const TEXTO_4			=	"Selecciona un vendedor";
+	const PEDIDO_1			=	"Pedido a la Mesa";
+	const PEDIDO_2			=	"Lo paso a retirar";
+	const PEDIDO_3			=	"Precio de envío";
+	
+	const MESA			=	"Mesa N°";
+	const CARGAR_MESA		=	"Cargar Mesa";
+
+////////////FIN PEDIDO//////////////	
+	const TEXTO_5			=	"Gracias por Elegirnos";
+	const TEXTO_6			=	"Su pedido será entregado a la brevedad.";
+	const BOTON_1			=	"Agregar Productos";
+	const BOTON_2			=	"Enviar Pedido";
+	const BOTON_3			=	"Pedir la cuenta";
+	const BOTON_4			=	"Efectivo";
+	const BOTON_5			=	"Posnet Local";
+	const MI_PEDIDO			=	"Mi Pedido";
+	const TOTAL			=	"TOTAL";
+	const FORMA_PAGO		=	"Formas de Pago";
+	const TEXTO_7			=	"Para finalizar el pedido<br>selecciona una forma de pago.";
+	
+////////////DELIBERY//////////////	
+	const TEXTO_8			=	"POR FAVOR VERIFICA SI TU DIRECCION ESTA DENTRO DE LA ZONA DE 						REPARTO";
+	const TEXTO_9			=	"Estoy seguro que me encuentro dentro de la zona de envío.";
+	const TEXTO_10			=	"Para envíos fuera de la zona consultar.";
+	const TEXTO_11			=	"Consultar";
+	const TEXTO_12			=	"Consulta%20envío%20fuera%20de%20zona:%0A";
+	const ENVIO			=	"Envío";
+	//FORMULARIO//
+	const FORM_1			=	"Dirección: (Calle y N°)";
+	const FORM_2 			=	"Localidad";
+	const FORM_3			=	"Provincia";
+	const FORM_4 			=	"Aclaración";
+	const FORM_5 			=	"Mis direcciones";
+	const BOTON_6			=	"Guardar Dirección";

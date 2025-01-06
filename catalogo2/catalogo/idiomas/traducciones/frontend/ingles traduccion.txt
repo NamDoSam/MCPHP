@@ -1,0 +1,84 @@
+////////////MENU//////////////
+	const INICIO			=	"START";
+	const CERRAR_SESION		=	"LOG OFF";
+	const INICIAR_SESION		=	"LOG IN";
+	const CONTACTO			=	"CONTACT";
+	const COMPARTIR			=	"SHARE";
+	const ADMIN				"ADMINISTRATION";
+	const MIS_PEDIDOS		=	"MY ORDERS";
+	
+////////////INICIO//////////////
+	const OPCIONES			=	"OPTIONS";
+	const SELECCIONA		=	"CHOOSE";
+	const PROMOCIONES		=	"PROMOTIONS";
+	const PROMOCION			=	"PROMOTION";
+	const HORARIOS			=	"Timetable";
+	const TELEFONO			=	"Phone";
+	const DIRECCION			=	"Address";
+
+////////////PROMOCIONES//////////////
+	const DETALLE			=	"To check";
+	const AGOTADO			=	"Drained";
+	const NOTA_PRODUCTO		=	"Product notes";
+	const CERRAR			=	"Close";
+	const PEDIDO			=	"ORDER";
+	const CARGAR_PEDIDO		=	"LOAD ORDER";
+	const CERRAR			=	"CLOSE";
+	const VER_PEDIDO		=	"SEE ORDER";
+	const TEXTO_1			=	"Do you want to clarify something?";
+	
+////////////LISTA DE PEDIDOS//////////////
+	const CANT				"Quantity";
+	const IMAGEN			=	"Image";
+	const PRODUCTO			=	"Product";
+	const PRECIO			=	"Price";
+	const BORRAR			=	"Delete";
+	const SIN_MINIMO		=	"No minimum";
+
+////////////LOGIN//////////////	
+	const REALIZAR_PEDIDO		=	"Place order";
+	const TEXTO_2			=	"FOR DELIVERY THE MINIMUM PURCHASE AMOUNT";
+	const TEXTO_3			=	"With area code and without the 15";
+	const CARGAR			=	"Load";
+	const CELULAR			=	"Mobile number";
+	const NOMBRE			=	"Name";
+	const VOLVER			=	"Return";
+	const NUEVO_USUARIO		=	"New User";
+	
+////////////FINALIZAR PEDIDO//////////////	
+	const FINALIZAR_PEDIDO		=	"Finalize order";
+	const TEXTO_4			=	"Select a vendor";
+	const PEDIDO_1			=	"Order at the table";
+	const PEDIDO_2			=	"I will take it away";
+	const PEDIDO_3			=	"Delivery cost";
+	
+	const MESA			=	"Table ID#";
+	const CARGAR_MESA		=	"Cargar Mesa";
+
+////////////FIN PEDIDO//////////////	
+	const TEXTO_5			=	"Thank you for choosing us";
+	const TEXTO_6			=	"Your order will be delivered as soon as possible";
+	const BOTON_1			=	"Add products";
+	const BOTON_2			=	"Send order";
+	const BOTON_3			=	"Ask for bill";
+	const BOTON_4			=	"Cash";
+	const BOTON_5			=	"Posnet of commerce";
+	const MI_PEDIDO			=	"My order";
+	const TOTAL			=	"TOTAL";
+	const FORMA_PAGO		=	"Payment options";
+	const TEXTO_7			=	"To finalize your order choose a payment option";
+	
+////////////DELIBERY//////////////	
+	const TEXTO_8			=	"PLEASE VERIFY IF YOUR ADDRESS IS IN DELIVERY ZONE"; 						REPARTO";
+	const TEXTO_9			=	"I am in delivery zone for sure.";
+	const TEXTO_10			=	"Ask for delivery out of zone.";
+	const TEXTO_11			=	"Check";
+	const TEXTO_12			=	"Consulta%20envío%20fuera%20de%20zona:%0A";
+	const ENVIO			=	"Sending";
+	//FORMULARIO//
+	const FORM_1			=	"Address: (Street and number)";
+	const FORM_2 			=	"City";
+	const FORM_3			=	"Province";
+	const FORM_4 			=	"Clarification";
+	const FORM_5 			=	"My addresses";
+	const BOTON_6			=	"Save address";

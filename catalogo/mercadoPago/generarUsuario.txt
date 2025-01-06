@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" "https://api.mercadopago.com/users/test_user?access_token=TEST-1099071481437615-122519-12664b6950892a652dafeb482f761506__LB_LA__-57975298" -d "{'site_id':'MLA'}"
